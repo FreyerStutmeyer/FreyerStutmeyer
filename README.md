@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Imagen de Portada](imagenes/Cats_Pixel.jpg)
 #Titulo proyecto
+![Imagen de Portada](Imagenes/Cats_Pixel.jpg)
